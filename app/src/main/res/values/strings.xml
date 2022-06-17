@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">begley</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="flow_fragment_label">流量分析</string>
+    <string name="packet_fragment_label">包分析</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title">标题</string>
+    <string name="description">描述</string>
+    <string name="todo">TODO</string>
+    <string name="start_capture">start_capture</string>
+    <string name="summary">总览</string>
+    <string name="request">请求</string>
+    <string name="response">响应</string>
+    <string name="action_clear">清空数据包</string>
+</resources>
